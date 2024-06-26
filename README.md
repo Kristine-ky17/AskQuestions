@@ -7,5 +7,5 @@ By doing so, students accessing the forum page can then save questions that woul
 
 ## The filter function currently only allows for filtering by topics and the log-in registration function is currently not functional!
 For anyone who is interested in trying out the other functions, you may log in via the provided user name and password:
-Username: boba
-Password:hello123
+## Username: boba
+## Password:hello123
